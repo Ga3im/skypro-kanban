@@ -9,7 +9,9 @@ export const Column = ({title, cards})=>{
 			</S.ColumnTitle>
 			<S.Cards>
 				{cards.map((card)=>(
-					<Card key={card.id} 
+					<Card 
+					id={card.id}
+					key={card.id} 
 					title={card.title} 
 					topic={card.topic}
 					date={card.date}/>

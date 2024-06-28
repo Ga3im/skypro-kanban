@@ -33,12 +33,11 @@ body {
   height: 100%;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   color: #000000;
-  background-color: ${({theme})=> theme.body}
 }
 `
 
 export const Wrapper = styled.div`
- max-width: 100%;
+  max-width: 100%;
   width: 100vw;
   min-height: 100vh;
   overflow: hidden;

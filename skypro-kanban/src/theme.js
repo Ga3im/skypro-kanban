@@ -31,6 +31,5 @@ export const dark = {
     HeadUser: "#202229",
     shadow: "0px 0px 5px white",
     checkpoint: "blue",
-
 }
 
