@@ -19,7 +19,10 @@ export const HeaderBlock = styled.div`
   padding: 0 10px;
 `
 export const HeaderLogo = styled.div`
-  width: 85px;
+  img{
+    width: 85px
+  }
+  
 `
 
 export const Nav = styled.nav`

@@ -1,5 +1,5 @@
 export const light = {
-    body: "#EAEEF6",
+    wrapper: "#EAEEF6",
     orangeBg: "#FFE4C2",
     orangeText: "#FF6D00",
     greenBg: "#B4FDD1",
@@ -17,7 +17,7 @@ export const light = {
 
 
 export const dark = {
-    body: "#151419",
+    wrapper: "#151419",
     orangeBg: "#FF6D00",
     orangeText: "#FFE4C2",
     greenBg: "#06B16E",
@@ -31,6 +31,5 @@ export const dark = {
     HeadUser: "#202229",
     shadow: "0px 0px 5px white",
     checkpoint: "blue",
-
 }
 
